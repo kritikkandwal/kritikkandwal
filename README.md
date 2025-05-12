@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React**, exploring **System Design** & **Cloud Technologies**  
 - 🏆 **LeetCode**: **1701** | **1000+** problems solved  
 - 🏆 **CodeChef**: **3⭐**  
-- 📫 How to reach me: **kritik.kandwal@example.com**  
+- 📫 How to reach me: kandwalktitik400@gmail.com 
 - 💡 Passionate about building **scalable web apps** with **clean, efficient code**  
 - ⚡ Fun fact: the term “bug” in programming comes from Grace Hopper’s moth in a relay!
 
