@@ -1,7 +1,8 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I%20%E2%9C%A8Kritik%E2%9C%A8%20Here!;Backend%20Developer;DevOps%20Engineer;DSA%20Enthusiast&font=Silkscreen&center=true&width=440&height=50&color=4169E1&vCenter=true&pause=420&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I%20am%20Kritik!;Aspiring%20Software%20Engineer;AI/ML%20Learner;Python%20Developer;DSA%20Enthusiast&font=Silkscreen&center=true&width=600&height=50&color=4169E1&vCenter=true&pause=420&size=30" />
+
 </h1>
 
 <p align="center">
