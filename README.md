@@ -55,8 +55,9 @@
   <tr>
     <td>Backend & DB</td>
     <td>
-      <img src="https://img.shields.io/badge/Java%20(server-side)-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL%20(databases)-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java%20(server--side)-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL%20(databases)-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
