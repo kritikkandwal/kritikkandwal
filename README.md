@@ -23,8 +23,8 @@
 
 ### 🔧 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kritik-kandwal)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FF9933?style=for-the-badge&logo=leetcode)](https://leetcode.com/kritik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kritik-kandwal-b1987b294/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF9933?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kritikkandwal/)
 
 ---
 
