@@ -79,7 +79,7 @@
 
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikkandwal&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-
+<br/><br/>
 <!-- Total contributions & general stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=kritikkandwal&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_radius=10&hide=issues,prs" alt="GitHub Stats" />
 
