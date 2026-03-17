@@ -37,12 +37,13 @@
     <td>
       <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET%20MVC-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC?style=for-the-badge&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   
   <tr>
-    <td>Database</td>
+    <td>Databases & Query Languages</td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-%2300599C?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -75,6 +76,8 @@
       <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
     </td>
   </tr>
 </table>
