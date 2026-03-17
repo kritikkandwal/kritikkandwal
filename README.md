@@ -29,44 +29,52 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
 <table>
   <tr>
-    <td>Languages</td>
+    <td>Backend</td>
     <td>
-      <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC?style=for-the-badge&logo=fastapi&logoColor=white" />
     </td>
   </tr>
+  
   <tr>
-    <td>Frontend</td>
+    <td>Database</td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />  
+      <img src="https://img.shields.io/badge/MySQL-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-%2300599C?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>Machine Learning</td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>Frontend (Basic)</td>
+    <td>
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
+
   <tr>
-    <td>Backend & DB</td>
+    <td>Tools & Platforms</td>
     <td>
-      <img src="https://img.shields.io/badge/Java%20(server--side)-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL%20(databases)-%2300599C?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-%2300AEEF?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
 </table>
